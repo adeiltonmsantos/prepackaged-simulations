@@ -45,7 +45,7 @@ Em cada amostra gerada por simulação de Monte Carlo são aplicados os critéri
 
 Você pode fazer um teste clicando no link abaixo
 
-https://colab.research.google.com/github/adeiltonmsantos/prepackaged-simulations/blob/main/prepackaged_simulations.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adeiltonmsantos/prepackaged-simulations/blob/main/prepackaged_simulations.ipynb)
 
 ## Considerações finais
 
