@@ -43,7 +43,11 @@ Com as informações a aplicação calcula média e desvio padrão das mediçõe
 
 Em cada amostra gerada por simulação de Monte Carlo são aplicados os critérios de avaliação do Regulamento Técnico do INMETRO, possibilitando assim estimar a probabilidade de reprovação para cada tamanho de amostra. Sendo evidenciado que na análise da amostra original pode ter havido falso positivo, o IPEM pode direcionar sua força de trabalho em busca de maiores amostras daquele produto para uma nova avaliação
 
-Você pode fazer um teste clicando no link abaixo
+Você pode fazer um teste baixando o PDF de um laudo real, o qual teve os dados sensíveis removidos ou alterados:
+
+https://github.com/adeiltonmsantos/prepackaged-simulations/blob/main/laudo_exemplo.pdf
+
+Em seguida, clique no link abaixo para abrir a aplicação:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adeiltonmsantos/prepackaged-simulations/blob/main/prepackaged_simulations.ipynb)
 
